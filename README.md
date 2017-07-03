@@ -14,9 +14,11 @@ To Do List:
 
   image processing on map files,
   build out dictionaries using information mined from maps (data amortization),
+
+
   build functions for:
     determining plane line,
     distance measurement,
     circle calculations
 
-  determine if additional resources needed." 
+  determine if additional resources needed."
