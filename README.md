@@ -15,9 +15,16 @@ Have done already:
 
 To Do List:
 
+  --begin logging function runtime
+
+  --get tool for getting image directly from GPU for processing
+
+  --build cpu equivalent for runtime comparisons
+
   --build tool for getting image of map from game screen
 
   --build tool to automatically gather location data from game
+  (keylogger/robot reference: https://stackoverflow.com/questions/13207678/whats-the-simplest-way-of-detecting-keyboard-input-in-python-from-the-terminal )
 
   --build library for map image processing:
     -determine building clusters (num buildings and location),
@@ -27,6 +34,7 @@ To Do List:
   --analyze image of map from game screen to determine quadrants, buildings, etc.
 
   --ingest data from data images relevant to location data.
+  
   --build out dictionaries using information mined from maps (data amortization)
 
   --build functions for:
